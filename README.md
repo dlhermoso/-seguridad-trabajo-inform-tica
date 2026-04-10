@@ -36,7 +36,7 @@
 </table>
 <h2>3. Optimización de la Estación de Trabajo (Ergonomía)</h2>
 <p>La mala configuración del puesto es la principal causa de trastornos musculoesqueléticos.</p>
-🪑 Mobiliario y Dimensiones
+<h3>🪑 Mobiliario y Dimensiones</h3>
 
 La mesa debe tener unas dimensiones mínimas de 1,2 m×0,8 m. La silla debe poseer una base de 5 apoyos con ruedas y ajuste lumbar.
 🖥️ Posicionamiento de Pantalla (PVD)
