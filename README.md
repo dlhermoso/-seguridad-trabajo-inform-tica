@@ -37,12 +37,9 @@
 <h2>3. Optimización de la Estación de Trabajo (Ergonomía)</h2>
 <p>La mala configuración del puesto es la principal causa de trastornos musculoesqueléticos.</p>
 <h3>🪑 Mobiliario y Dimensiones</h3>
-
-La mesa debe tener unas dimensiones mínimas de 1,2 m×0,8 m. La silla debe poseer una base de 5 apoyos con ruedas y ajuste lumbar.
-🖥️ Posicionamiento de Pantalla (PVD)
+<p>La mesa debe tener unas dimensiones mínimas de 1,2 m×0,8 m. La silla debe poseer una base de 5 apoyos con ruedas y ajuste lumbar.</p>
+<h2>🖥️ Posicionamiento de Pantalla (PVD)</h2>
 
 La distancia entre los ojos y el monitor es vital para evitar la fatiga visual.
-
-    Distancia recomendada: Entre 50 cm y 70 cm.
-
-    Altura: El borde superior del monitor debe coincidir con la línea de visión horizontal.
+Distancia recomendada: Entre 50 cm y 70 cm.
+Altura: El borde superior del monitor debe coincidir con la línea de visión horizontal.
