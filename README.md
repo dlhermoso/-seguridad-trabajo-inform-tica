@@ -58,3 +58,10 @@
 <li>Programación de envíos de correos para el horario ordinario.</li>
 <li>Respeto absoluto a los tiempos de descanso y vacaciones.</li>
 </ul>
+<h2>5. Seguridad en Centros de Procesamiento de Datos (CPD)</h2>
+<p>El CPD es un entorno industrial de alta energía con riesgos específicos:</p>
+<ul>
+<li>Riesgo Eléctrico: Peligro de arco eléctrico en PDUs y UPS. Se requiere protocolo LOTO (Lockout/Tagout).</li>
+<li>Ruido: Los ventiladores pueden alcanzar los 80 dB. Es obligatorio el uso de protección auditiva.</li>
+<li>Incendios: Implementación de sistemas de agua nebulizada (SEM-SAFE) para proteger el hardware y al personal.</li>
+</ul>
