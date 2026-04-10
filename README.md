@@ -44,3 +44,19 @@
 <li>Distancia recomendada: Entre 50 cm y 70 cm.</li>
 <li>Altura: El borde superior del monitor debe coincidir con la línea de visión horizontal.</li>
 </ul>
+<h2>4. Riesgos Psicosociales: El Tecnoestrés</h2>
+<p>La hiperconectividad ha generado nuevas patologías. Definimos tres dimensiones críticas:</p>
+<ul>
+<li>Tecnoansiedad: Miedo o tensión ante el uso de nuevas tecnologías.</li>
+<li>Tecnofatiga: Cansancio cognitivo por sobrecarga de información (infoxicación).</li>
+<li>Tecnoadicción: Incapacidad de desconectar, invadiendo la vida personal.</li>
+
+🔌 Protocolo de Desconexión Digital
+
+Basado en la Ley Orgánica 3/2018, este proyecto promueve:
+
+    No responder comunicaciones fuera de la jornada laboral.
+
+    Programación de envíos de correos para el horario ordinario.
+
+    Respeto absoluto a los tiempos de descanso y vacaciones.
