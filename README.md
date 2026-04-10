@@ -1,1 +1,1 @@
-# -seguridad-trabajo-inform-tica
+# -seguridad-trabajo-informática
