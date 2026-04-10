@@ -68,3 +68,4 @@
 <h2>6. Prevención de Patologías: Túnel Carpiano</h2>
 <p>El Síndrome del Túnel Carpiano es la neuropatía más común en el sector. Se produce por la compresión del nervio mediano debido a movimientos repetitivos.</p>
 <img width="2048" height="1750" alt="imagen" src="https://github.com/user-attachments/assets/ba8aa675-8cd1-4b29-8dce-b8376dd6bb42" />
+<footer>Realizado por Diego López y Hugo Izquierdo</footer>
