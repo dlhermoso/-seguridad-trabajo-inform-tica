@@ -1,6 +1,6 @@
 <h1>seguridad-trabajo-informática</h1>
 <h2>1. Introducción</h2>
-<p>Aunque al trabajar frente a un ordenador no os enfrentamos a maquinaria pesada, sigue habiendos riesgos laborales así como <b>trastornos musculoesqueléticos, fatiga visual y riesgos psicosociales</b>. Este proyecto busca concienciar y ofrecer soluciones prácticas para un entorno de trabajo seguro.</p>
+<p>Aunque al trabajar frente a un ordenador no nos enfrentamos a maquinaria pesada, sigue habiendos riesgos laborales así como <b>trastornos musculoesqueléticos, fatiga visual y riesgos psicosociales</b>. Este proyecto busca concienciar y ofrecer soluciones prácticas para un entorno de trabajo seguro.</p>
 <h2>2. Marco Normativo y Estándares</h2>
 <p>La prevención en entornos digitales se rige por pilares legales y técnicos internacionales que garantizan la salud del trabajador:</p>
 <ul>
